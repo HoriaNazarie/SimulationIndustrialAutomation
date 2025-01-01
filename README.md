@@ -4,6 +4,14 @@
 Simulations are invaluable in scenarios where industrial processes need to be optimized before deploying physical systems, minimizing downtime and resource expenditure. In this project, I leveraged ABB's RobotStudio simulation and offline programming software in combination with the RAPID programming language to simulate an industrial process using a six DOF robotic manipulator. The simulation encompassed various stages, including object modification, precise handling, and efficient packaging. Through this project, I gained hands-on experience in programming robotic manipulators, understanding the intricacies of industrial automation, and appreciating the importance of simulation in refining processes for real-world applications.
 <br />
 
+<h4>What I Learned:</h4>
+
+<ul>
+  <li>Gained hands-on experience with <b>ABB RobotStudio for simulating and programming</b> industrial robotic processes </li>
+  <li>Developed proficiency in the <b>RAPID programming language</b> for controlling robotic movements</li>
+  <li>Learned how to <b>model and simulate</b> real-world industrial automation scenarios</li>
+  <li>Improved <b>project management skills</b> by designing, testing, and iterating on an automated process from concept to completion</li>
+</ul>
 
 <h2>Software and/or Programming Language Used</h2>
 
